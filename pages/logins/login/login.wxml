@@ -9,7 +9,7 @@
 
 
 <view class='login_view'>
-  <button type='primary' size='mini'>登录</button>
+  <button type='primary' bindtap="bindViewTap">登录</button>
 </view>
 <view class='login_view'>
   <text class='bottom'>看一下科技</text>

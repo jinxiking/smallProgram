@@ -1,0 +1,12 @@
+<view class="container">
+  <text>{{tel}}</text>
+
+  <view class='card_chose' bindtap='scanCode'>
+    扫码绑定设备
+  </view>
+
+  <view class='card_chose' bindtap='toHome'>
+    无设备
+  </view>
+
+</view>

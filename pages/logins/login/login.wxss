@@ -19,5 +19,5 @@
 .bottom{
   position: absolute;
   bottom:30rpx;
-  text-align: center
+  text-align: center;
 }
